@@ -4,4 +4,4 @@
 
 ```npm install react```
 
-Juego del amigo secreto
+Juego del amigo secreto en el cual podrás agregar tus amigos y realizar el sorteo!
